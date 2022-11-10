@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa83e4c-daeb-42e4-a678-f0e8c7b8a730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/basics/C01_HandleDropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/basics/C02_Dropdown2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/basics/C03_Dropdown3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/basics/C04_Dropdown4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/methods/C01_DependsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/methods/C02_SoftAssertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C02_Dropdown2.dropdownSizeTest">
+  <component name="RunManager" selected="TestNG.C01_DependsOnMethod.searchTest">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="TestNG" />
       <method v="2">
@@ -58,17 +58,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Dropdown2.dropdownListTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_DependsOnMethod.pageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.basics.*" />
+          <option name="PATTERN" value="tests.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.basics" />
-      <option name="MAIN_CLASS_NAME" value="tests.basics.C02_Dropdown2" />
-      <option name="METHOD_NAME" value="dropdownListTest" />
+      <option name="PACKAGE_NAME" value="tests.methods" />
+      <option name="MAIN_CLASS_NAME" value="tests.methods.C01_DependsOnMethod" />
+      <option name="METHOD_NAME" value="pageTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -76,17 +76,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Dropdown2.dropdownSizeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_DependsOnMethod.searchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.basics.*" />
+          <option name="PATTERN" value="tests.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.basics" />
-      <option name="MAIN_CLASS_NAME" value="tests.basics.C02_Dropdown2" />
-      <option name="METHOD_NAME" value="dropdownSizeTest" />
+      <option name="PACKAGE_NAME" value="tests.methods" />
+      <option name="MAIN_CLASS_NAME" value="tests.methods.C01_DependsOnMethod" />
+      <option name="METHOD_NAME" value="searchTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -94,7 +94,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Dropdown2.indexTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_Dropdown3.categorySizeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +103,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.basics" />
-      <option name="MAIN_CLASS_NAME" value="tests.basics.C02_Dropdown2" />
-      <option name="METHOD_NAME" value="indexTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.basics.C03_Dropdown3" />
+      <option name="METHOD_NAME" value="categorySizeTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -112,7 +112,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Dropdown2.valueTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_Dropdown3.searchTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +121,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.basics" />
-      <option name="MAIN_CLASS_NAME" value="tests.basics.C02_Dropdown2" />
-      <option name="METHOD_NAME" value="valueTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.basics.C03_Dropdown3" />
+      <option name="METHOD_NAME" value="searchTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -130,7 +130,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Dropdown2.visibilityTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_Dropdown4.signinTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +139,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.basics" />
-      <option name="MAIN_CLASS_NAME" value="tests.basics.C02_Dropdown2" />
-      <option name="METHOD_NAME" value="visibilityTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.basics.C04_Dropdown4" />
+      <option name="METHOD_NAME" value="signinTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C02_Dropdown2.dropdownSizeTest" />
-        <item itemvalue="TestNG.C02_Dropdown2.dropdownListTest" />
-        <item itemvalue="TestNG.C02_Dropdown2.visibilityTest" />
-        <item itemvalue="TestNG.C02_Dropdown2.valueTest" />
-        <item itemvalue="TestNG.C02_Dropdown2.indexTest" />
+        <item itemvalue="TestNG.C01_DependsOnMethod.searchTest" />
+        <item itemvalue="TestNG.C01_DependsOnMethod.pageTest" />
+        <item itemvalue="TestNG.C04_Dropdown4.signinTest" />
+        <item itemvalue="TestNG.C03_Dropdown3.searchTest" />
+        <item itemvalue="TestNG.C03_Dropdown3.categorySizeTest" />
       </list>
     </recent_temporary>
   </component>
