@@ -1,4 +1,4 @@
-package tests.methods;
+package tests.b_methods;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -11,7 +11,7 @@ import org.testng.asserts.SoftAssert;
 
 import java.time.Duration;
 
-public class C04_SoftAssertion {
+public class C04_SoftAssertion3 {
     WebDriver driver;
     SoftAssert softAssert = new SoftAssert();
     // 1. “https://hepsiburada.com/” Adresine gidin

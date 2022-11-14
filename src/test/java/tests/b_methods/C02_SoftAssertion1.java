@@ -1,4 +1,4 @@
-package tests.methods;
+package tests.b_methods;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -14,7 +14,7 @@ import org.testng.asserts.SoftAssert;
 import java.time.Duration;
 import java.util.List;
 
-public class C02_SoftAssertion {
+public class C02_SoftAssertion1 {
     // Yeni bir Class Olusturun : C03_SoftAssert
     // 1. “http://zero.webappsecurity.com/” Adresine gidin
     // 2. Sign in butonuna basin

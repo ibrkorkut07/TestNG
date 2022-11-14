@@ -1,9 +1,9 @@
-package tests.methods;
+package tests.b_methods;
 
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-public class C03_SoftAssertion {
+public class C03_SoftAssertion2 {
 
     @Test
     public void test(){
