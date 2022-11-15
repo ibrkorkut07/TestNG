@@ -5,34 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa83e4c-daeb-42e4-a678-f0e8c7b8a730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C07_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C08_WindowHandle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C08_WindowHandle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C08_WindowHandle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C01_TestBaseKullanim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C02_MouseActions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C03_MouseActions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C04_MouseActions3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C05_KeyboardActions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C06_KeyboardActions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C07_FileExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C08_FileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C09_FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C10_ExplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C11_Faker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C12_CookiesAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C13_ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C14_ScreenShotDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C15_JsExecuterClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C16_JsExecutorScrollIntoView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/basics/C01_HandleDropdowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C01_HandleDropdowns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/basics/C02_Dropdown2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C02_Dropdown2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/basics/C03_Dropdown3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C03_Dropdown3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/basics/C04_Dropdown4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/a_basics/C04_Dropdown4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/methods/C01_DependsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C01_DependsOnMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/methods/C02_SoftAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C02_SoftAssertion1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/methods/C03_SoftAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C03_SoftAssertion2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/methods/C04_SoftAssertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C04_SoftAssertion3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/methods/C05_Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C05_Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/methods/C06_BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/b_methods/C06_BasicAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C11_Faker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/c_classesWithTestBase/C11_Faker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +49,15 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tests.c_classesWithTestBase" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ibrko\IdeaProjects\TestNG22\src\test\java\tests\c_classesWithTestBase" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="C08_FileDownload.downloadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C14_ScreenShotDirectory">
+    <configuration name="C13_ScreenShot.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -83,43 +66,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
-      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C08_FileDownload" />
-      <option name="METHOD_NAME" value="downloadTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C08_FileDownload.isExist" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.c_classesWithTestBase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
-      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C08_FileDownload" />
-      <option name="METHOD_NAME" value="isExist" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C09_FileUpload.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.c_classesWithTestBase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
-      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C09_FileUpload" />
+      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C13_ScreenShot" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -128,7 +75,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_ExplicitlyWait.explicitWait" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C14_ScreenShotDirectory" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +84,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
-      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C10_ExplicitlyWait" />
-      <option name="METHOD_NAME" value="explicitWait" />
+      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C14_ScreenShotDirectory" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C14_ScreenShotDirectory.elmaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.c_classesWithTestBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
+      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C14_ScreenShotDirectory" />
+      <option name="METHOD_NAME" value="elmaTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -146,7 +110,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10_ExplicitlyWait.implicitWait" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C14_ScreenShotDirectory.javaTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +119,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
-      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C10_ExplicitlyWait" />
-      <option name="METHOD_NAME" value="implicitWait" />
+      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C14_ScreenShotDirectory" />
+      <option name="METHOD_NAME" value="javaTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C14_ScreenShotDirectory.nutellaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.c_classesWithTestBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.c_classesWithTestBase" />
+      <option name="MAIN_CLASS_NAME" value="tests.c_classesWithTestBase.C14_ScreenShotDirectory" />
+      <option name="METHOD_NAME" value="nutellaTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -166,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C10_ExplicitlyWait.explicitWait" />
-        <item itemvalue="TestNG.C10_ExplicitlyWait.implicitWait" />
-        <item itemvalue="TestNG.C09_FileUpload.test" />
-        <item itemvalue="TestNG.C08_FileDownload.isExist" />
-        <item itemvalue="TestNG.C08_FileDownload.downloadTest" />
+        <item itemvalue="TestNG.C14_ScreenShotDirectory" />
+        <item itemvalue="TestNG.C14_ScreenShotDirectory.elmaTest" />
+        <item itemvalue="TestNG.C14_ScreenShotDirectory.javaTest" />
+        <item itemvalue="TestNG.C14_ScreenShotDirectory.nutellaTest" />
+        <item itemvalue="TestNG.C13_ScreenShot.test" />
       </list>
     </recent_temporary>
   </component>
